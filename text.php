@@ -5,7 +5,7 @@ phpinfo();
 print_r( $_SERVER );
 
 const WEB_NAME ='iti.com';
-echo WEB_NAME.<br>;
+echo WEB_NAME."<br>";
 
 
 
@@ -13,7 +13,7 @@ echo WEB_NAME.<br>;
 echo "the filename and path:".__FILE__;
 
 $age=10;
-$grade = 12-$age:
+$grade = 12-$age;
 switch ($age) {
 
     case "$age<5":
